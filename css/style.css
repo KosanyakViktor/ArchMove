@@ -2,21 +2,19 @@
     font-family: 'New York Extra Large Black';
     font-style: normal;
     font-weight: normal;
-    src: local('New York Extra Large Black'), url('NewYorkExtraLargeBlack.woff') format('woff');
+    src: local('New York Extra Large Black'), url('../fonts/NewYorkExtraLargeBlack.woff') format('woff');
 }
 @font-face {
     font-family: 'SF UI Display';
     src: url('SFUIDisplay-Light.eot');
     src: local('SF UI Display Light'), local('SFUIDisplay-Light'),
-        url('/fonts/SFUIDisplay-Light.eot') format('embedded-opentype'),
-        url('/fonts/SFUIDisplay-Light.woff2') format('woff2'),
-        url('/fonts/SFUIDisplay-Light.woff') format('woff'),
-        url('/fonts/SFUIDisplay-Light.ttf') format('truetype');
+        url('../fonts/SFUIDisplay-Light.eot') format('embedded-opentype'),
+        url('../fonts/SFUIDisplay-Light.woff2') format('woff2'),
+        url('../fonts/SFUIDisplay-Light.woff') format('woff'),
+        url('../fonts/SFUIDisplay-Light.ttf') format('truetype');
     font-weight: 200;
     font-style: normal;
 }
-
-
 
 * {
     margin: 0;
