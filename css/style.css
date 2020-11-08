@@ -409,13 +409,13 @@ nav a:hover:before {
 	top: 12px;
 	right: -1px;
 	fill: #fff;
-	transition: all .3s ease-in-out;
+	transition: all .4s ease-in-out;
 }
 
 #toTop:hover svg {
 	cursor: pointer;
 	fill: #fff;
-	transition: all .3s ease-in-out;
+	transition: all .4s ease-in-out;
 }
 
 #toTop.show {
@@ -484,3 +484,4 @@ nav a:hover:before {
     left: 5px;
     top: 6px;
 }
+.
