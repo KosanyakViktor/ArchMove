@@ -7,7 +7,7 @@ QUCICK START
 
 git clone https://github.com/KosanyakViktor/Foundation.git
 
-####The tech stack is:####
+**The tech stack is:**
 * *HTML*
 * *CSS3*
 * *CSS GRID and FLEXBOX*
