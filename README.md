@@ -1,11 +1,11 @@
-Foundation
+Archmove
 ================================================================================
 
 QUCICK START 
 --------------------------------------------------------------------------------
 **Clone** project 
 
-git clone https://github.com/KosanyakViktor/Foundation.git
+git clone https://github.com/KosanyakViktor/Archmove.git
 
 **The tech stack is:**
 * *HTML*
